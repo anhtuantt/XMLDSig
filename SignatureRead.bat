@@ -1,0 +1,1 @@
+java -cp bin;lib/* com.clinys.xml.digitalsignature.SignatureReadInfo XMLPOC_Signed_v01.xml

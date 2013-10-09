@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MsgHead xmlns="http://www.example.com/msghead" xmlns:xsd="http://www.w3.org/2001/XMLSchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.com/msghead MsgHead.xsd"><xenc:EncryptedData xmlns:xenc="http://www.w3.org/2001/04/xmlenc#" Type="http://www.w3.org/2001/04/xmlenc#Content"><xenc:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#aes128-cbc"/><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<xenc:EncryptedKey><xenc:EncryptionMethod Algorithm="http://www.w3.org/2001/04/xmlenc#kw-tripledes"/><xenc:CipherData><xenc:CipherValue>Y9hET2n5T+jHxpUQX1XeHnXo+qCmr2ATBmPQqYNuRnY=</xenc:CipherValue></xenc:CipherData></xenc:EncryptedKey></ds:KeyInfo><xenc:CipherData><xenc:CipherValue>9hVjU3jjPkd05QoemuXa8Vk+AMVajezRs1yFx6OVxQtbBLVDCRUok+3XO7pxBBmE3mpGHIxwcPJn
+IWBfsNAacM6ubUxi0ZHri5xMDc+8axRbL2s2Z5becZcy09VtEUZxxpgJ/2seaj2PEzgDePlNHjsq
+Bnq1OeDSANKvoUBNHh9Puuj/EvDuyN96T3B2G/W6TXVtlx01tgcSWm8ZDy3WhJXbt1EKsPrBDf17
+26tMBTJMvA45namBua1gGztDebaQx/LjUu6Cr/DJe5pBIGrW3grV+h0xDT3ZLHfPZfxWroc8kqjL
+jUuNZlgtPB2lZQ63VtmRhosBVki0TuR9wiBDxOxGCnAg+Kcs763fLXNJXmjrSXKyGkmDIAeu2ZuF
+WeS2CGPPdO5fFMWhhx1EhiCL1JSBmAsPeV8ff7P2PtjNJcFsnEjnEzHc2qXnwqQTW3PliCxAcyWB
+zGk8u3qiDWfrl+bhaZBkbXbtMa00XuZp6J5FqA+638/V6vFouWOvvvS6</xenc:CipherValue></xenc:CipherData></xenc:EncryptedData></MsgHead>

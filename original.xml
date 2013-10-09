@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MsgHead xmlns="http://www.example.com/msghead" xmlns:xsd="http://www.w3.org/2001/XMLSchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.com/msghead MsgHead.xsd">
+  <MsgInfo>
+    <Type DN="Resept" V="ERM1"/>
+    <Patient>
+      <FamilyName>Nordmann</FamilyName>
+      <GivenName>Ola</GivenName>
+      <Ident>
+        <Id>12345678901</Id>
+        <TypeId DN="Fødselsnummer" S="2.16.123.1.10.4.1.1.9999" V="FNR"/>
+      </Ident>
+    </Patient>
+  </MsgInfo>
+  <Document>
+    <RefDoc>foo bar</RefDoc>
+  </Document>
+
+</MsgHead>
